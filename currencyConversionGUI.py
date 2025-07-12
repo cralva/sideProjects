@@ -1,5 +1,7 @@
 import tkinter as tk
 
+print("The GUI Program")
+
 window = tk.Tk()
 window.geometry("400x300")
 
